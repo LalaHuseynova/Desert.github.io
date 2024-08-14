@@ -1,8 +1,8 @@
 const products = [
     {
         "image": {
-            "thumbnail": "/images/image-waffle-thumbnail.jpg",
-            "orginal": "/images/image-waffle-desktop.jpg"
+            "thumbnail": "images/image-waffle-thumbnail.jpg",
+            "orginal": "images/image-waffle-desktop.jpg"
         },
         "name": "Waffle with Berries",
         "category": "Waffle",
@@ -10,8 +10,8 @@ const products = [
     },
     {
         "image": {
-            "thumbnail": "/images/image-creme-brulee-thumbnail.jpg",
-            "orginal": "/images/image-creme-brulee-desktop.jpg"
+            "thumbnail": "images/image-creme-brulee-thumbnail.jpg",
+            "orginal": "images/image-creme-brulee-desktop.jpg"
         },
         "name": "Vanilla Bean Crème Brûlée",
         "category": "Crème Brûlée",
@@ -19,8 +19,8 @@ const products = [
     },
     {
         "image": {
-            "thumbnail": "/images/image-macaron-thumbnail.jpg",
-            "orginal": "/images/image-macaron-desktop.jpg"
+            "thumbnail": "images/image-macaron-thumbnail.jpg",
+            "orginal": "images/image-macaron-desktop.jpg"
         },
         "name": "Macaron Mix of Five",
         "category": "Macaron",
@@ -28,8 +28,8 @@ const products = [
     },
     {
         "image": {
-            "thumbnail": "/images/image-tiramisu-thumbnail.jpg",
-            "orginal": "/images/image-tiramisu-desktop.jpg"
+            "thumbnail": "images/image-tiramisu-thumbnail.jpg",
+            "orginal": "images/image-tiramisu-desktop.jpg"
         },
         "name": "Classic Tiramisu",
         "category": "Tiramisu",
@@ -37,8 +37,8 @@ const products = [
     },
     {
         "image": {
-            "thumbnail": "/images/image-baklava-thumbnail.jpg",
-            "orginal": "/images/image-baklava-desktop.jpg"
+            "thumbnail": "images/image-baklava-thumbnail.jpg",
+            "orginal": "images/image-baklava-desktop.jpg"
         },
         "name": "Pistachio Baklava",
         "category": "Baklava",
@@ -46,8 +46,8 @@ const products = [
     },
     {
         "image": {
-            "thumbnail": "/images/image-meringue-thumbnail.jpg",
-            "orginal": "/images/image-meringue-desktop.jpg"
+            "thumbnail": "images/image-meringue-thumbnail.jpg",
+            "orginal": "images/image-meringue-desktop.jpg"
         },
         "name": "Lemon Meringue Pie",
         "category": "Pie",
@@ -55,8 +55,8 @@ const products = [
     },
     {
         "image": {
-            "thumbnail": "/images/image-cake-thumbnail.jpg",
-            "orginal": "/images/image-cake-desktop.jpg"
+            "thumbnail": "images/image-cake-thumbnail.jpg",
+            "orginal": "images/image-cake-desktop.jpg"
         },
         "name": "Red Velvet Cake",
         "category": "Cake",
@@ -64,8 +64,8 @@ const products = [
     },
     {
         "image": {
-            "thumbnail": "/images/image-brownie-thumbnail.jpg",
-            "orginal": "/images/image-brownie-desktop.jpg"
+            "thumbnail": "images/image-brownie-thumbnail.jpg",
+            "orginal": "images/image-brownie-desktop.jpg"
         },
         "name": "Salted Caramel Brownie",
         "category": "Brownie",
@@ -73,8 +73,8 @@ const products = [
     },
     {
         "image": {
-            "thumbnail": "/images/image-panna-cotta-thumbnail.jpg",
-            "orginal": "/images/image-panna-cotta-desktop.jpg"
+            "thumbnail": "images/image-panna-cotta-thumbnail.jpg",
+            "orginal": "images/image-panna-cotta-desktop.jpg"
         },
         "name": "Vanilla Panna Cotta",
         "category": "Panna Cotta",
